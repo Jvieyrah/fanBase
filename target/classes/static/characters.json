@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Josuke Higashikata",
+    "height": "185 cm",
+    "description": "Estudante do ensino médio com habilidades de Stand."
+  },
+  {
+    "name": "Koichi Hirose",
+    "height": "157 cm",
+    "description": "Amigo próximo de Josuke com um Stand evolutivo."
+  },
+  {
+    "name": "Okuyasu Nijimura",
+    "height": "180 cm",
+    "description": "Um aliado de Josuke com o Stand The Hand."
+  },
+  {
+    "name": "Rohan Kishibe",
+    "height": "175 cm",
+    "description": "Um mangaká talentoso com o Stand Heaven's Door."
+  },
+  {
+    "name": "Jotaro Kujo",
+    "height": "195 cm",
+    "description": "Um estudante universitário com o poderoso Stand Star Platinum."
+  },
+  {
+    "name": "Yukako Yamagishi",
+    "height": "165 cm",
+    "description": "Uma estudante obcecada por Koichi, com o Stand Love Deluxe."
+  },
+  {
+    "name": "Shigekiyo Yangu",
+    "height": "160 cm",
+    "description": "Conhecido como Shigechi, é um estudante do ensino médio com o Stand Harvest."
+  },
+  {
+    "name": "Reimi Sugimoto",
+    "height": "167 cm",
+    "description": "Um espírito gentil que vive na Rua dos Morangos."
+  },
+  {
+    "name": "Yoshikage Kira",
+    "height": "175 cm",
+    "description": "Um assassino em série com um Stand mortal chamado Killer Queen."
+  }
+]
